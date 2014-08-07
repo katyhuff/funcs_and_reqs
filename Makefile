@@ -1,4 +1,4 @@
-manuscript = fundamentals
+manuscript = funcs_and_reqs
 references = `ls *.bib`
 latexopt   = -halt-on-error -file-line-error
 
